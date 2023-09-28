@@ -1,0 +1,9 @@
+imagen: nodo:10.5.0 
+
+etapas: 
+  - compilación 
+  - prueba 
+  - implementación 
+
+before_script: 
+  - instalación npm
